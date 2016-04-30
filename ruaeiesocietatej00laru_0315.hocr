@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ruaeiesocietatej00laru_0315.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2648 0 2826 286">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2648 0 2826 286">
+     <span class='ocr_line' id='line_1_1' title="bbox 2648 0 2826 286; baseline 0 4082"><span class='ocrx_word' id='word_1_1' title='bbox 2648 0 2826 286; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 740 1723 1315 2601">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 740 1723 1315 2601">
+     <span class='ocr_line' id='line_1_2' title="bbox 740 1723 1315 2601; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 740 1723 1315 2601; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 92 4186 254 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 92 4186 254 4368">
+     <span class='ocr_line' id='line_1_3' title="bbox 92 4186 254 4368; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 92 4186 254 4368; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2894 4163 2912 4301">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2894 4163 2912 4301">
+     <span class='ocr_line' id='line_1_4' title="bbox 2894 4163 2912 4301; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 2898 4219 2912 4301; x_wconf 48' lang='lat' dir='ltr'><em>22:41»ss</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2901 4180 2912 4212; x_wconf 46' lang='lat'><em>..¹22-</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2894 4163 2912 4171; x_wconf 74' lang='grc' dir='ltr'><strong>Τ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
